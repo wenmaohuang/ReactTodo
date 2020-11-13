@@ -1,3 +1,13 @@
+功能说明：
+1.在输入框输入代办事项，点击"添加"按钮或输入回车键添加代办事项;
+2.点击"状态"任意项切换状态;
+3.点击"时间"任意项切换时间排序;
+4.点击"操作"任意项删除代办事项;
+5.点击"全部"按钮显示所有代办事项;
+6.点击"还没完成"按钮显示还没完成事项;
+7.点击"已完成"按钮显示已完成事项;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+

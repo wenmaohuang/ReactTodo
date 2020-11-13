@@ -1,0 +1,15 @@
+.unCompleteContent{
+    margin-top: 20px;
+    background-color: red;
+    cursor:pointer;
+}
+.completeContent{
+    margin-top: 20px;
+    background-color: green;
+    cursor:pointer;
+}
+.total{
+    margin-top: 20px;
+    background-color: gray;
+    cursor:pointer;
+}
